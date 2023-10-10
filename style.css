@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: o;
+    box-sizing: border-box;
+}
+.header-content{
+    height: 800px;
+    width: auto;
+    padding-left: 60px;
+    background-image: url(1_er6EYjMrkSJ7iMDcHnPnwA.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.display1{
+    
+    padding-top: 200px;
+    text-shadow: 3px 3px 3px black;
+}
+.container1{
+    padding-left: 100px;
+    text-shadow: 5px 5px 5px black;
+    word-wrap: normal;
+}
+.slogan{
+    text-shadow: 5px 5px 5px black;
+}
+.home1{
+    background-image: linear-gradient( rgba(38, 216, 11, 0),rgba(234, 136, 152, 0.925));
+}
+.f{
+    background-image: linear-gradient( white,rgb(239, 127, 145));
+   min-height: 790px;
+}
